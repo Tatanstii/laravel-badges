@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-  <a href="https://packagist.org/packages/insynnia/laravel-badges"><img alt="Latest Version" src="https://img.shields.io/packagist/v/insynnia/laravel-badges.svg?style=flat-square"></a>
+  <a href="https://github.com/Tatanstii/laravel-badges/releases"><img alt="Latest Version" src="https://img.shields.io/github/v/tag/Tatanstii/laravel-badges?style=flat-square&label=version"></a>
   <a href="https://github.com/Tatanstii/laravel-badges/actions/workflows/run-tests.yml"><img alt="Tests" src="https://img.shields.io/github/actions/workflow/status/Tatanstii/laravel-badges/run-tests.yml?branch=main&label=tests&style=flat-square"></a>
-  <a href="https://packagist.org/packages/insynnia/laravel-badges"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/insynnia/laravel-badges.svg?style=flat-square"></a>
-  <a href="https://packagist.org/packages/insynnia/laravel-badges"><img alt="PHP Version" src="https://img.shields.io/packagist/php-v/insynnia/laravel-badges.svg?style=flat-square"></a>
+  <a href="https://github.com/Tatanstii/laravel-badges/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Tatanstii/laravel-badges?style=flat-square"></a>
+  <img alt="PHP Version" src="https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=flat-square&logo=php&logoColor=white">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-11%20|%2012%20|%2013-FF2D20?style=flat-square&logo=laravel">
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/packagist/l/insynnia/laravel-badges.svg?style=flat-square"></a>
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/Tatanstii/laravel-badges?style=flat-square"></a>
 </p>
 
 ---
