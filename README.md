@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://packagist.org/packages/insynnia/laravel-badges"><img alt="Latest Version" src="https://img.shields.io/packagist/v/insynnia/laravel-badges.svg?style=flat-square"></a>
-  <a href="https://github.com/insynnia/laravel-badges/actions/workflows/run-tests.yml"><img alt="Tests" src="https://img.shields.io/github/actions/workflow/status/insynnia/laravel-badges/run-tests.yml?branch=main&label=tests&style=flat-square"></a>
+  <a href="https://github.com/Tatanstii/laravel-badges/actions/workflows/run-tests.yml"><img alt="Tests" src="https://img.shields.io/github/actions/workflow/status/Tatanstii/laravel-badges/run-tests.yml?branch=main&label=tests&style=flat-square"></a>
   <a href="https://packagist.org/packages/insynnia/laravel-badges"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/insynnia/laravel-badges.svg?style=flat-square"></a>
   <a href="https://packagist.org/packages/insynnia/laravel-badges"><img alt="PHP Version" src="https://img.shields.io/packagist/php-v/insynnia/laravel-badges.svg?style=flat-square"></a>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-11%20|%2012%20|%2013-FF2D20?style=flat-square&logo=laravel">
